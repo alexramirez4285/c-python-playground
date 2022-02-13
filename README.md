@@ -1,3 +1,3 @@
-# Demo
+# Practice
 
-Demo for C and Python programming
+Practice for C/Python programming and Git
