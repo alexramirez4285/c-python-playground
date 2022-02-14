@@ -61,6 +61,7 @@ int main() {
     
     // Find the second smallest value and its index
 
+    printf("Alex is awesome");
     return 0;
 
 }
